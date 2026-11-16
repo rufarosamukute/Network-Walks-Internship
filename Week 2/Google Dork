@@ -1,0 +1,22 @@
+ lINK 
+ http://99.114.240.169:8080/
+https://www.lmc.edu/webcam.htm
+https://www.nps.gov/subjects/air/webcams.htm?site=grpk
+https://pixelheal.bandcamp.com/album/intitle-toshiba-network-camera-user-login
+https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/piazza-di-spagna.html
+https://www.skylinewebcams.com/en/webcam/italia/lazio/roma/pantheon.html
+https://klsimer.edu/img/infrastructure/lb/$dcim$camera$20210313_112934AM.jpg
+https://www.desticam.com/cam-pkt1/test.htm
+http://www.insecam.org/en/bytype/webcamxp/
+
+RELEVENAT DORK
+intitle:"Webcam" inurl:WebCam.htm
+intitle:"Webcam" inurl:WebCam.htm
+intitle:"Webcam" inurl:WebCam.htm
+intitle:"Toshiba Network Camera"
+inurl:webcam site:skylinewebcams.com inurl:roma
+inurl:webcam site:skylinewebcams.com inurl:roma
+intitle:"Index of" "DCIM/camera"
+intitle:"yawcam" "It's a webcam!" "user" "pass"
+
+PASSWORD 
